@@ -19,24 +19,18 @@ The libraries used to interpret the functions and display their graphs are as fo
  
 Features:
 
-- Bisection method ![](./metodo_biseccion.PNG)
-- False rule method
-![](./metodo_regla_falsa.PNG)
-- Fixed-point method
-![](./metodo_punto_fijo.PNG)
-- Newthon-Rhapson method
-![](./metodo_newton_rhapson.PNG)
-- Secant method
+### Bisection method 
 ![](./metodo_biseccion.PNG)
-- Gauss-Jordan method
-- Jaccobi method
-- Gauss-Seidel method
-- Linear regression method
+### False rule method
+![](./metodo_regla_falsa.PNG)
+### Fixed-point method
+![](./metodo_punto_fijo.PNG)
+### Newthon-Rhapson method
+![](./metodo_newton_rhapson.PNG)
+### Secant method
+![](./metodo_biseccion.PNG)
+### Linear regression method
 ![](./regresion_lineal.PNG)
-- Interpolation method
-- Quadratic interpolation method
-- Split-difference method
-- LaGrange interpolation method
 
 If you wish to support my content it would be super appreciated a help from you!
 
