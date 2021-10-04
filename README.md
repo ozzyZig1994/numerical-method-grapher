@@ -19,8 +19,7 @@ The libraries used to interpret the functions and display their graphs are as fo
  
 Features:
 
-- Bisection method
-![](./metodo_biseccion.PNG)
+- Bisection method ![](./metodo_biseccion.PNG)
 - False rule method
 ![](./metodo_regla_falsa.PNG)
 - Fixed-point method
